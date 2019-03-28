@@ -4,3 +4,11 @@
 
 layout: home
 ---
+
+Can I use **some markdown** on this page with 
+
+---
+
+Horizontal Rules 
+
+And spaces?
