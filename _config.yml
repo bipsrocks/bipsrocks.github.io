@@ -22,10 +22,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bips.rocks" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pete_winn
 github_username:  bipsrocks
+show_excerpts: true
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 

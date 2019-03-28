@@ -6,10 +6,10 @@ layout: home
 list_title: Not posts
 ---
 
-Can I use **some markdown** on this page with 
+bitcoin **is hard**.
+
+The Rabbit hoe is deep.
+
 
 ---
 
-Horizontal Rules 
-
-And spaces?
