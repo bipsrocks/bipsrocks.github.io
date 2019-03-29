@@ -1,5 +1,96 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-28T21:35:13+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">BIPS! Bitcoin in Pictures &amp;amp; Stories</title><subtitle>Bitcoin is really complex. Pictures and stories are nice and simple.  Here the two worlds collide to demystify the technical, game theory, and economic concepts in bitcoin.  </subtitle><entry><title type="html">Finally Bitcoin in Pictures!</title><link href="http://localhost:4000/2019/03/28/Welcome-To-BIPS.html" rel="alternate" type="text/html" title="Finally Bitcoin in Pictures!" /><published>2019-03-28T00:00:00+08:00</published><updated>2019-03-28T00:00:00+08:00</updated><id>http://localhost:4000/2019/03/28/Welcome-To-BIPS</id><content type="html" xml:base="http://localhost:4000/2019/03/28/Welcome-To-BIPS.html">&lt;p&gt;“Hmmmm…. this rabbit hole is deep. I sure wish it was a little bit less fucking confusing”
-Everybody, about 6 weeks after they said I wonder what bnitcoin is.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-29T13:30:56+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">BIPS! Bitcoin in Pictures &amp;amp; Stories</title><subtitle>Bitcoin is really complex. Pictures and stories are nice and simple.  Here the two worlds collide to demystify the technical, game theory, and economic concepts in bitcoin.  </subtitle><entry><title type="html">Ancient Sumerians, Underpants, Fell Running and… bitcoins?</title><link href="http://localhost:4000/2019/03/29/Ancient-Sumerians-Underpants-bitcoins.html" rel="alternate" type="text/html" title="Ancient Sumerians, Underpants, Fell Running and... bitcoins?" /><published>2019-03-29T00:00:00+08:00</published><updated>2019-03-29T00:00:00+08:00</updated><id>http://localhost:4000/2019/03/29/Ancient-Sumerians-Underpants-bitcoins</id><content type="html" xml:base="http://localhost:4000/2019/03/29/Ancient-Sumerians-Underpants-bitcoins.html">&lt;p&gt;Why did bitcoin require a proof of work blockchain? In one word, &lt;strong&gt;Trust&lt;/strong&gt;.  In more words…&lt;/p&gt;
 
-&lt;p&gt;The purpose of this site is to attempt to try and demystify some of the concepts in the bitcoin ecosystem through 
-a series of pictures, recorded white board explainers and short stories.&lt;/p&gt;</content><author><name></name></author><summary type="html">“Hmmmm…. this rabbit hole is deep. I sure wish it was a little bit less fucking confusing” Everybody, about 6 weeks after they said I wonder what bnitcoin is.</summary></entry></feed>
+&lt;p&gt;Meet the hero of our story Dave.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/imdave.png&quot; alt=&quot;Hello I'm Dave&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dave is an ancient Sumerian and he’s just invented writing.&lt;/p&gt;
+
+&lt;p&gt;Great work Dave have a steak.&lt;/p&gt;
+
+&lt;p&gt;This is wonderful thinks Dave I can write things down on this clay tablet.  I think I’ll make a note of those bitcoin Jen owes me, so Dave writes down.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Jen owes Dave 10 bitcoin&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;Ok i admit it.  We’re paraphrasing here… however this is more or less how writing came into being and what it was used for. Writing was simply a record of “who owned and owes what”.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This is going great says Dave, I know exactly how much Bitcoin I owe and how much I’m owed.&lt;/p&gt;
+
+&lt;p&gt;Over the next few months Dave teaches everyone to read (fuck me Dave you really are kicking goals) and everyone goes around trading goods and bitcoin with Dave writing it all down.  It seems like a good system until Jen…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/imjen.png&quot; alt=&quot;Hello I'm Jen&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;…realises there’s a problem.  We have to &lt;strong&gt;trust&lt;/strong&gt; Dave and what if Dave changes what he wrote down, if he adds a zero she owes him 100 bitcoin and she’s not sure she can trust him that much.&lt;/p&gt;
+
+&lt;p&gt;Our hero Dave, who lets face it is an ideas man, has a solution.  Perhaps if he teaches the king to write, the king could keep hold of the tablet and there shouldn’t be any problems after all everyone trusts the king.&lt;/p&gt;
+
+&lt;p&gt;Well Dave goes about it and all is well and good and the bitcoins flow smoothly through the streets leading to much prosperity.&lt;/p&gt;
+
+&lt;p&gt;Until Dave decides to tackle a tricky problem. The barbarians over the hill are all running around tackle out and Dave is a prudish type.  The problem is they can’t afford underwear, but if Dave thinks if he lent them some bitcoins they could buy some undies and cover up!&lt;/p&gt;
+
+&lt;p&gt;So over the course of many months Dave establishes a dialogue with the “barbarians” and explains…&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’ll write down on his clay tablet that you owe me 20 bitcoin, I’ll give you these and then you can go and buy some under-crackers&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The barbarian, he’s called Phil of course…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/imphil.png&quot; alt=&quot;Hi I'm Phil&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;…is understandably skeptical.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What if I take your bitcoin and you change the tablet to say I owe you 30 bitcoin I’ll never be able to pay it back, maybe I should just keep hold of that fancy clay tablet.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;No way thinks Dave…&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;No, the king keeps the tablet and we all trust the king so there’s nothing to worry about&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;That will not be happening thinks Phil, turns out the barbarians aren’t quite as enamored of the king as the Sumerians, like London Bridge this system of trust has fallen down… Stalemate.&lt;/p&gt;
+
+&lt;p&gt;Alas poor Dave inds himself once more in a “tricky pickle”.  Without trust he can’t get the barbarians into underwear and Mrs Dave will keep taking sneaky peeks over the walls which really annoys Dave.&lt;/p&gt;
+
+&lt;p&gt;Luckily Jen enters with an interesting idea.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What if we all write it down everyone keeps a copy and as long as it’s all the same we know that everything is good.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Phil is intrigued yeah, OK he thinks…&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I don’t really trust your King but if we all have the same record then we’ll all know it’s correct…&lt;br /&gt;
+Buuutttt what if there’s differences, between them, how will we know who’s version is correct?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Straight majority rule didn’t quite work as there were more Sumerians than barbarians, but Phil has an idea that might just make it work.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;How about we keep lots of copies on the tops of these big hills over there.&lt;br /&gt;On market days we can bring them down and check who owns what and go with the majority.&lt;br /&gt;In the meantime no-one will bother changing them because they’d need to run up and down all these mountains to do it and thats way too much work.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Phil didn’t trust the Sumerians, but he knew they were too lazy to climb all those mountains it was just too much work to cheat. So instead he just put his trust in this simple system, watched the hills to see if anyone started trying to cheat and verified the answers on his own self soveriegn clay tablet.&lt;/p&gt;
+
+&lt;p&gt;And that dear readers is the history of money.&lt;/p&gt;</content><author><name></name></author><summary type="html">Why did bitcoin require a proof of work blockchain? In one word, Trust. In more words…</summary></entry><entry><title type="html">Welcome to BIPS</title><link href="http://localhost:4000/2019/03/28/Welcome-To-BIPS.html" rel="alternate" type="text/html" title="Welcome to BIPS" /><published>2019-03-28T00:00:00+08:00</published><updated>2019-03-28T00:00:00+08:00</updated><id>http://localhost:4000/2019/03/28/Welcome-To-BIPS</id><content type="html" xml:base="http://localhost:4000/2019/03/28/Welcome-To-BIPS.html">&lt;blockquote&gt;
+  &lt;p&gt;“Hmmmm…. this rabbit hole is deep. I sure wish it was a little bit less fucking confusing”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I’m going to attribute this quote to almost everyone who once thought to themselves, “so I wonder what this bitcoin thing is all about” and then surfaced about six months later - you know who you are.&lt;/p&gt;
+
+&lt;p&gt;The purpose of this little website is to try and demystify some of the concepts in the bitcoin ecosystem through a series of pictures, white board explainers, annologies and short stories.  Hopefully with a little bit of humour thrown in.&lt;/p&gt;
+
+&lt;p&gt;I feel like I spend around about 1000 hours a day listening to podcasts reading articles and thinking critically about all this stuff, but in reality I know that I work best visually in front of a big whiteboard.&lt;/p&gt;
+
+&lt;p&gt;So with that in mind instead of trying to write ever more complex explainers in medium that I never publish, I figured I’d stick to the knitting and build a website of recorded whiteboard sessions and commedy anecdotes instead.&lt;/p&gt;
+
+&lt;p&gt;Why BIPS? Well its a pun on BIPS… but also stands for bitcoin in Pictures and Stories.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/rabbithole.png&quot; alt=&quot;Rabbit Hole&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You see I said there’d be humour.&lt;/p&gt;</content><author><name></name></author><summary type="html">“Hmmmm…. this rabbit hole is deep. I sure wish it was a little bit less fucking confusing”</summary></entry></feed>
