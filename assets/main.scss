@@ -1,0 +1,34 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.site-title { 
+    padding: 20px 0px;
+    text-align: center;
+}
+.img-title {
+    max-width:50%;
+    height:auto;
+}
+.site-nav {
+    text-align: center;
+}
+
+
+p {
+    padding: 2px 0 2px 0;
+}
+
+blockquote {
+    text-align: center;
+    padding: 10px 0 10px 0;
+}
+
+.post-link {
+    color: #cc3333;
+    font-size: 24px;
+}
+.post-list-heading {
+    padding: 0 30px;
+}
