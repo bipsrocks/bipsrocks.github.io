@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.wrapper { 
+    padding 100px;
+}
+
+.post-list-heading {
+    font-size: 72px;
+}
