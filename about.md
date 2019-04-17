@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Creative Commons
 permalink: /about/
 ---
 
@@ -16,3 +16,5 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">bips.rocks</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://bips.rocks" property="cc:attributionName" rel="cc:attributionURL">Pete Winn</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://bips.rocks" rel="dct:source">https://bips.rocks</a>.

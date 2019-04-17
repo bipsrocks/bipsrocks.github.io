@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-list_title: The good stuff
+list_title: New Pictures and Stories!
 ---
 
 bitcoin is **pretty bloody complex**.  All of a sudden you're expected to know about; game theory, 
@@ -19,7 +19,8 @@ pictures and short stories.
 
 > If you don't believe me or don't get it, <s>I don't have time to try to convince you, sorry</s><br />
 > check out bips.rocks, it's awesome.
-
-*<a href="https://satoshi.nakamotoinstitute.org/posts/bitcointalk/287/#selection-47.202-51.1" target="_new">Satoshi Nakamoto, 2010 (paraprhased)</a>*
+<p class="caption">
+<a href="https://satoshi.nakamotoinstitute.org/posts/bitcointalk/287/#selection-47.202-51.1" target="_new">Satoshi Nakamoto, 2010 (paraprhased)</a></p>
 
 ---
+{:.hr} 

@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .site-title { 
-    padding: 20px 0px;
+    padding: 10px 0px;
     text-align: center;
 }
 .img-title {
@@ -12,9 +12,12 @@
     height:auto;
 }
 .site-nav {
+    float: none;
+    line-height: 36px;
+}
+.trigger {
     text-align: center;
 }
-
 
 p {
     padding: 2px 0 2px 0;
@@ -26,9 +29,29 @@ blockquote {
 }
 
 .post-link {
-    color: #cc3333;
+    color: #333333;
     font-size: 24px;
 }
+a {
+    color: #1756a9;
+}
 .post-list-heading {
-    padding: 0 30px;
+    padding: 0 0 10px 0;
+}
+
+.caption {
+    font-size: 0.8em;
+    text-align: center;
+    color:#1756a9;
+}
+.hr {
+    margin: 30px;
+}
+
+.footer-col2 {
+    float: right;
+}
+
+.post-pic {
+    float: none;
 }

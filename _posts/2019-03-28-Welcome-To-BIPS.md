@@ -2,6 +2,7 @@
 layout: post
 title: "Welcome to BIPS"
 date: 2019-03-28
+permalink: /welcome/
 ---
 
 > "Hmmmm.... this rabbit hole is deep. I sure wish it was a little bit less fucking confusing"

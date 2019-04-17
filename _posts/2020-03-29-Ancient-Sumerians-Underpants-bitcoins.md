@@ -2,6 +2,7 @@
 layout: post
 title: "Ancient Sumerians, Underpants, Fell Running and... bitcoins?"
 date: 2019-03-29
+permalink: /sumerians/
 ---
 
 Why did bitcoin require a proof of work blockchain? In one word, **Trust**.  In more words...
