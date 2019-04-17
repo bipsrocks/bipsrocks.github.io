@@ -10,12 +10,12 @@ bitcoin is **pretty bloody complex**.  All of a sudden you're expected to know a
 economics, technology and cryptography just to figure out what's going on.
 
 The good news is there's a truck load of content for you to consume as you fall deeper and deeper
-into this new wonderland.
+into this new wonderland.  The bad news is that a "truck load" is a lot of content and it gets confusing.
 
-The bad news is that a "truck load" is a lot of content (see our further reading section for starters!). 
+So this site is all about taking these concepts and trying to explain them thorugh a series of 
+pictures and short stories, with a touch of humour if we can manage it. 
 
-So this website is all about taking these concepts and trying to explain them thorugh a series of 
-pictures and short stories. 
+BIPS. **B**itcoin **I**n **P**ictures and **S**tories.
 
 > If you don't believe me or don't get it, <s>I don't have time to try to convince you, sorry</s><br />
 > check out bips.rocks, it's awesome.

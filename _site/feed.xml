@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-17T09:49:43+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">BIPS! Bitcoin in Pictures &amp;amp; Stories</title><subtitle>Bitcoin is really complex. Pictures and stories are nice and simple.  We'll try to demystify the technical and economic concepts in bitcoin, whilst having some fun.</subtitle><entry><title type="html">Ancient Sumerians, Underpants, Fell Running and… bitcoins?</title><link href="http://localhost:4000/sumerians/" rel="alternate" type="text/html" title="Ancient Sumerians, Underpants, Fell Running and... bitcoins?" /><published>2019-03-29T00:00:00+08:00</published><updated>2019-03-29T00:00:00+08:00</updated><id>http://localhost:4000/Ancient-Sumerians-Underpants-bitcoins</id><content type="html" xml:base="http://localhost:4000/sumerians/">&lt;p&gt;Why did bitcoin require a proof of work blockchain? In one word, &lt;strong&gt;Trust&lt;/strong&gt;.  In more words…&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-17T11:24:12+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">BIPS! Bitcoin in Pictures &amp;amp; Stories</title><subtitle>Bitcoin is really complex. Pictures and stories are nice and simple.  We'll try to demystify the technical and economic concepts in bitcoin, whilst having some fun.</subtitle><entry><title type="html">Ancient Sumerians, Underpants, Fell Running and… bitcoins?</title><link href="http://localhost:4000/sumerians/" rel="alternate" type="text/html" title="Ancient Sumerians, Underpants, Fell Running and... bitcoins?" /><published>2019-03-29T00:00:00+08:00</published><updated>2019-03-29T00:00:00+08:00</updated><id>http://localhost:4000/Ancient-Sumerians-Underpants-bitcoins</id><content type="html" xml:base="http://localhost:4000/sumerians/">&lt;p&gt;Why did bitcoin require a proof of work blockchain? In one word, &lt;strong&gt;Trust&lt;/strong&gt;.  In more words…&lt;/p&gt;
 
 &lt;p&gt;Meet the hero of our story Dave.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/imdave.png&quot; alt=&quot;Hello I'm Dave&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;post-pic&quot;&gt;&lt;img src=&quot;/assets/images/imdave.png&quot; alt=&quot;Hello I'm Dave&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Dave is an ancient Sumerian and he’s just invented writing.&lt;/p&gt;
 
@@ -20,7 +20,7 @@
 
 &lt;p&gt;Over the next few months Dave teaches everyone to read (fuck me Dave you really are kicking goals) and everyone goes around trading goods and bitcoin with Dave writing it all down.  It seems like a good system until Jen…&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/imjen.png&quot; alt=&quot;Hello I'm Jen&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;post-pic&quot;&gt;&lt;img src=&quot;/assets/images/imjen.png&quot; alt=&quot;Hello I'm Jen&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;…realises there’s a problem.  We have to &lt;strong&gt;trust&lt;/strong&gt; Dave and what if Dave changes what he wrote down, if he adds a zero she owes him 100 bitcoin and she’s not sure she can trust him that much.&lt;/p&gt;
 
@@ -38,7 +38,7 @@
 
 &lt;p&gt;The barbarian, he’s called Phil of course…&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/imphil.png&quot; alt=&quot;Hi I'm Phil&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;post-pic&quot;&gt;&lt;img src=&quot;/assets/images/imphil.png&quot; alt=&quot;Hi I'm Phil&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;…is understandably skeptical.&lt;/p&gt;
 
