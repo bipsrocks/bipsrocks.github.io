@@ -22,5 +22,7 @@ BIPS. **B**itcoin **I**n **P**ictures and **S**tories.
 <p class="caption">
 <a href="https://satoshi.nakamotoinstitute.org/posts/bitcointalk/287/#selection-47.202-51.1" target="_new">Satoshi Nakamoto, 2010 (paraprhased)</a></p>
 
+All freely licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). So feel free to take this, do you want and share it wherever it helps.
+
 ---
 {:.hr} 
