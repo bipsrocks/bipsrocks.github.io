@@ -23,6 +23,7 @@ url: "https://bips.rocks" # the base hostname & protocol for your site, e.g. htt
 twitter_username: pete_winn
 github_username:  bipsrocks
 show_excerpts: true
+google_analytics: UA-138870248-1
 
 # Build settings
 markdown: kramdown
