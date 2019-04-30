@@ -13,7 +13,10 @@ to see covered quicker feel free to reach out and ask.
 * What is a node?
 * What is a private key?
 * What is a wallet?
-* What is a 
+
+### Functional Concepts
+
+* [Loop Out](/loopout)
 
 ### Funny Stories
 
