@@ -18,10 +18,10 @@ to see covered quicker feel free to reach out and ask.
 ### Funny Stories
 
 * [Ancient Sumerians, Underpants, Fell Running and... bitcoins?](/sumerians/)
-* 
 
 ### Cryptographic Primatives
 
+* [Hash time lock contracts, or a box two locks and a wall](/htlc)
 * Public Key Cryptography
 * Digital Signatures
 * One way hash function
